@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+------info here about the project
 Explain how your project works
 
 ## How to test
